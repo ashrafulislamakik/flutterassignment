@@ -62,6 +62,7 @@ class assignmentmainpage extends StatelessWidget {
               Text1: courser [index]["Text1"]!,
               Text2: courser [index]["Text2"]!,
               Text3: courser [index]["Text3"]!,
+              Text3: courser [index]["Text3"]!,
 
 
             );
